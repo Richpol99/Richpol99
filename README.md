@@ -18,13 +18,13 @@
   <br/>
   <div style="margin-top: 10px;">
     <a href="https://cursor.sh/" target="_blank">
-      <img src="https://raw.githubusercontent.com/Richpol99/Richpol99/main/icons/cursor.svg?v=7" height="48" alt="Cursor AI" />
+      <img src="https://raw.githubusercontent.com/Richpol99/Richpol99/main/icons/cursor.svg?v=8" height="50" alt="Cursor AI" />
     </a>
     <a href="https://trae.ai/" target="_blank">
-      <img src="https://raw.githubusercontent.com/Richpol99/Richpol99/main/icons/trae.svg?v=7" height="48" alt="Trae AI" />
+      <img src="https://raw.githubusercontent.com/Richpol99/Richpol99/main/icons/trae.svg?v=8" height="50" alt="Trae AI" />
     </a>
     <a href="https://claude.ai/" target="_blank">
-      <img src="https://raw.githubusercontent.com/Richpol99/Richpol99/main/icons/claude.svg?v=7" height="48" alt="Claude AI" />
+      <img src="https://raw.githubusercontent.com/Richpol99/Richpol99/main/icons/claude.svg?v=8" height="50" alt="Claude AI" />
     </a>
   </div>
 </div>
