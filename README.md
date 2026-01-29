@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <h3>🛠️ Stack Tecnológico</h3>
+  <h3>Stack Tecnológico</h3>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,django,html,css,tailwind,git,github,vscode,docker,mongodb,postgres&theme=dark&perline=8" />
   <br/>
   <div style="margin-top: 10px;">
@@ -32,7 +32,7 @@
 <br/>
 
 <div align="center">
-  <h3>📊 Estadísticas</h3>
+  <h3>Estadísticas</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Richpol99&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=9CA3AF&icon_color=3B82F6&hide=stars" height="150" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richpol99&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=9CA3AF&icon_color=3B82F6" height="150" alt="languages" />
 </div>
