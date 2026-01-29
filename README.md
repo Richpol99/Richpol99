@@ -44,7 +44,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/Richpol99/Richpol99/raw/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Richpol99/Richpol99/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" />
 </div>
 
 <br/>
