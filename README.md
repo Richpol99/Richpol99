@@ -15,6 +15,12 @@
 <div align="center">
   <h3>🛠️ Stack Tecnológico</h3>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,django,html,css,tailwind,git,github,vscode,docker,mongodb,postgres&theme=dark&perline=8" />
+  <br/>
+  <div style="margin-top: 10px;">
+    <img src="https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=openai&logoColor=white" alt="Cursor AI" />
+    <img src="https://img.shields.io/badge/Trae_AI-3B82F6?style=flat-square&logo=openai&logoColor=white" alt="Trae AI" />
+    <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  </div>
 </div>
 
 <br/>
