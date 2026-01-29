@@ -1,69 +1,53 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:3333ff&height=180&section=header&text=RICHARD%20POLANCO&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=CREATIVE%20DEVELOPER&descAlignY=80&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Richpol99&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer&descAlignY=60&descAlign=50" width="100%" />
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=DESARROLLADOR+FULL+STACK;INNOVACI%C3%93N+DIGITAL;SOLUCIONES+DE+IMPACTO" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Construyendo+software+de+calidad;Explorando+nuevas+tecnolog%C3%ADas;Escribiendo+c%C3%B3digo+limpio" alt="Typing SVG" />
   </a>
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Richpol99&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <h3>🛠️ Stack Tecnológico</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,django,html,css,tailwind,git,github,vscode,docker,mongodb,postgres&theme=dark&perline=8" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" />
+  <h3>📊 Estadísticas</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Richpol99&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=9CA3AF&icon_color=3B82F6&hide=stars" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richpol99&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=9CA3AF&icon_color=3B82F6" height="150" alt="languages" />
 </div>
-
-<h2 align="center">⚡ ARSENAL TECNOLÓGICO ⚡</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,django,java,c,cpp,html,css,tailwind,git,github,vscode,docker,linux,mysql,postgres,mongodb,firebase,aws,gcp&theme=dark&perline=12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Richpol99&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&currStreakNum=9CA3AF&sideNums=9CA3AF&sideLabels=9CA3AF" alt="streak" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Richpol99&show_icons=true&theme=radical&hide_border=true&bg_color=10,000000,000000&title_color=ff00cc&icon_color=00ff99&text_color=ffffff" height="180" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richpol99&layout=compact&theme=radical&hide_border=true&bg_color=10,000000,000000&title_color=ff00cc&text_color=ffffff" height="180" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Richpol99&theme=radical&hide_border=true&background=10,000000,000000&ring=ff00cc&fire=ff00cc&currStreakLabel=00ff99" />
+  <img src="https://github.com/Richpol99/Richpol99/raw/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://github.com/Richpol99/Richpol99/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-<br />
+<br/>
 
 <div align="center">
   <a href="https://linkedin.com/in/TU_USUARIO">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Richpol99">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:tu@email.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=100&section=footer" width="100%" />
-</div>
+<br/>
+<br/>
