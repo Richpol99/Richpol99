@@ -24,7 +24,7 @@
       <img src="https://raw.githubusercontent.com/Richpol99/Richpol99/main/icons/trae.svg?v=5" height="48" alt="Trae AI" />
     </a>
     <a href="https://claude.ai/" target="_blank">
-      <img src="https://raw.githubusercontent.com/Richpol99/Richpol99/main/icons/claude.svg?v=5" height="48" alt="Claude AI" />
+      <img src="https://raw.githubusercontent.com/Richpol99/Richpol99/main/icons/claude.svg?v=6" height="48" alt="Claude AI" />
     </a>
   </div>
 </div>
