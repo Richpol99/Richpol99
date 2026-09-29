@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0:050814,25:0f172a,50:1e1b4b,75:312e81,100:06b6d4&height=220&section=header&text=RICARDO%20POLANCO&fontSize=64&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=FULL--STACK%20%7C%20MOBILE%20ARCHITECT%20%7C%20PROJECT%20LEAD&descAlignY=64&descAlign=50" width="100%" alt="Ricardo Polanco Header" />
+  <h1>👋 Ricardo Polanco</h1>
+  <p><strong>Full-Stack Engineer &bull; Mobile Solutions Architect &bull; Tech Lead</strong></p>
 
   <!-- DYNAMIC TYPING SVG -->
   <a href="https://git.io/typing-svg">
@@ -211,8 +211,3 @@ Aplicación **100% nativa en Kotlin 2.0 y Jetpack Compose** con Material 3 y tem
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:050814,50:1e1b4b,100:06b6d4&height=110&section=footer" width="100%" alt="Footer" />
-</div>
