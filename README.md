@@ -5,7 +5,7 @@
 
   <!-- DYNAMIC TYPING SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&multiline=false&width=620&lines=%E2%9A%A1+Architecting+Scalable+Mobile+%26+Cloud+Ecosystems;%F0%9F%9A%80+Lead+Developer+%40+UBICATEC+2.0+Ecosystem;%F0%9F%9B%A1%EF%B8%8F+Registered+Author+at+INDAUTOR+M%C3%A9xico;%F0%9F%93%B1+Kotlin+2.0+%7C+Jetpack+Compose+%7C+Capacitor+8;%F0%9F%8C%90+GIS+Cartography+%7C+PWA+Offline-First" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&multiline=false&width=640&lines=%E2%9A%A1+Architecting+Scalable+Mobile+%26+Cloud+Ecosystems;%F0%9F%9A%80+Lead+Developer+%40+UBICATEC+2.0+Ecosystem;%F0%9F%8E%A4+Ponente+%40+Feria+Estatal+de+Ciencias+y+Tecnolog%C3%ADa;%F0%9F%8F%99%EF%B8%8F+Profesional+%40+Smart+City+Expo+LATAM+Congress+2025;%F0%9F%8F%86+2x+Innovador+en+InnovaTecNM+(2025+%26+2026);%F0%9F%9B%A1%EF%B8%8F+Registered+Author+at+INDAUTOR+M%C3%A9xico" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -33,6 +33,11 @@
   "institution": "Instituto Tecnológico de Puebla (ITP)",
   "flagship_project": "Ecosistema UBICATEC (Web PWA, Android Mobile & UbiDash Console)",
   "legal_registration": "INDAUTOR — Instituto Nacional del Derecho de Autor (México)",
+  "industry_milestones": [
+    "Smart City Expo LATAM Congress Puebla 2025 (Participación Profesional)",
+    "Feria Estatal de Ciencias y Tecnología Puebla 2025 (Ponente en Conferencia & Demostración de UBICATEC)",
+    "InnovaTecNM 2025 y 2026 (2 Veces Participante en Etapa Local)"
+  ],
   "core_languages": ["Kotlin 2.0", "Java 21", "JavaScript (ES6+)", "TypeScript", "Python"],
   "mobile_architecture": ["Jetpack Compose (Material 3)", "Capacitor 8", "Android AppWidgets", "BiometricPrompt"],
   "cloud_and_data": ["Firebase Firestore (Offline Cache)", "Realtime DB", "Cloud Storage", "OneSignal Push"],
@@ -40,6 +45,52 @@
   "status": "🟢 Open to Strategic Engineering Projects & Technical Leadership"
 }
 ```
+
+---
+
+## 🎤 Ponencias, Congresos & Trayectoria Profesional
+
+<table>
+  <tr>
+    <td width="50%" align="top">
+      <h3>🏙️ Smart City Expo LATAM Congress (Puebla 2025)</h3>
+      <p><b>Rol:</b> Participación como Profesional / Exponente Tecnológico</p>
+      <p>
+        Participación en el evento cumbre de ciudades inteligentes y transformación digital de América Latina, intercambiando perspectivas con líderes de la industria sobre <b>tecnología cívica, movilidad asistida y soluciones espaciales de impacto urbano</b>.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Congreso%20Internacional-Smart%20City%20Expo-00A3E0?style=flat-square&logo=speedtest&logoColor=white" alt="Smart City Expo">
+      </p>
+    </td>
+    <td width="50%" align="top">
+      <h3>🔬 Feria Estatal de Ciencias y Tecnología (Puebla 2025)</h3>
+      <p><b>Rol:</b> Conferencista Magistral & Demostrador del Proyecto UBICATEC</p>
+      <p>
+        Participación destacada en dos modalidades de alto impacto:
+        <ul>
+          <li><b>Conferencista Invitado:</b> Impartición de ponencia técnica orientada a la arquitectura de software, accesibilidad y sistemas de geolocalización sin conexión.</li>
+          <li><b>Demostración en Vivo:</b> Stand oficial de exhibición técnica de <b>UBICATEC</b> ante autoridades educativas, investigadores y comunidad académica estatal.</li>
+        </ul>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Ponente%20%26%20Expositor-Feria%20de%20Ciencias%20Puebla-7F52FF?style=flat-square&logo=microgenetics&logoColor=white" alt="Feria de Ciencias">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="top">
+      <h3>🏆 InnovaTecNM — Cumbre Nacional de Desarrollo Tecnológico e Innovación</h3>
+      <p><b>Ediciones:</b> Participante en <b>2 ocasiones consecutivas (2025 y 2026)</b> — Etapa Local</p>
+      <p>
+        Defensa técnica del ecosistema <b>UBICATEC</b> ante el comité de evaluación del <b>Tecnológico Nacional de México (TecNM)</b>, superando rigurosas rúbricas de validación en innovación tecnológica, arquitectura de software, viabilidad económica e impacto social directo en la comunidad estudiantil.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/TecNM-InnovaTecNM%202025%20%26%202026-1B396A?style=flat-square&logo=award&logoColor=white" alt="InnovaTecNM">
+        <img src="https://img.shields.io/badge/Etapa-Local%20(2x%20Participante)-2E7D32?style=flat-square" alt="Etapa Local">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
